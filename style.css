@@ -1,0 +1,98 @@
+.navbar-custom {
+    background-color: #46A29D;
+
+}
+.navbar-text{
+    color: #3d3d3d;
+}
+.navbar a:hover {
+    background-color: #6BBCB1;
+    color: whitesmoke;
+}
+
+.btn-custom {
+    background-color: #102322;
+    color:#e6e6e6;      
+  }
+
+body {
+    background-color:#ece9e1;
+}
+.col-custom {
+  padding-top: 10px;
+}
+p {color: #3d3d3d;}
+
+
+li a:hover{color: #3d3d3d;}
+
+.card-custom {
+    background-color: #f5f4ef;
+    color:#3d3d3d;
+    text-align: left;
+    border-radius: 20px;
+    border-color: #3d3d3d;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+footer {
+    color: #3d3d3d; 
+    position:static; 
+    margin-bottom: auto;
+    bottom:0;
+    padding-bottom: 10px;
+    padding-left: 20px; 
+    background-color: #6BBCB1;
+    width: 100%;
+    text-align: justify;
+}
+
+
+.navbar-brand {
+    color: #102322;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+
+.card-custom {
+    background-color: #f5f4ef;
+    color:#3d3d3d;
+    text-align: left;
+    border-radius: 20px;
+    border-color: #3d3d3d;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+h1 {color: #3d3d3d; text-align: center;}
+
+h2 {color: #3d3d3d; text-align: left; padding-bottom: 10px;}
+
+h3 {color: #3d3d3d; text-align: center;padding-top: 10px;}
+
+table {
+    font-family: 'Times New Roman', Times, serif;
+    color: #003B46;
+    width: 100%;
+    border-collapse: collapse;
+    padding: 30px;
+}
+
+td, th {
+font-family: 'Times New Roman', Times, serif;
+background-color: #f5f4ef;
+border: 1px solid #003B46;
+text-align: left;
+}
+
+tr { background-color: #ece9e1; }
+
+
